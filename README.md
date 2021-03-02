@@ -1,8 +1,8 @@
-Setup
+# Setup
 
-##Install Packages
+## Install Packages
 npm install or yarn install
 
-##Start Project 
+## Start Project 
 url : http://localhost:3000
 npm run start or yarn start
